@@ -1,0 +1,21 @@
+StudentID,Name,Age,Gender,Course,Marks,City,Email,JoinDate
+101,Ananya Sharma,20,Female,BCA,85,Mumbai,ananya@gmail.com,12-06-2023
+102,Rahul Verma,,Male,BBA,78,,rahul@gmail.com,12-07-2023
+103,Priya Singh,19,Female,,92,Pune,priya@gmail,01-08-2023
+104,Amit Patel,22,Male,BCom,74,Ahmedabad,amit@gmail.com,25-06-2023
+105,Sneha Iyer,20,Female,BCA,88,Chennai,sneha@gmail.com,15-07-2023
+106,Karan Mehta,23,Male,BBA,67,Surat,karan@gmail.com,30-05-2023
+107,,21,Male,BSc,81,Pune,missing@gmail.com,10-06-2023
+108,Riya Gupta,,Female,BCA,90,Delhi,riya@gmail.com,20-07-2023
+109,Arjun Rao,22,Male,BCom,,Hyderabad,arjun@gmail.com,05-08-2023
+110,Neha Jain,20,Female,BCA,85,Mumbai,neha@gmail.com,12-06-2023
+110,Neha Jain,20,Female,BCA,85,Mumbai,neha@gmail.com,12-06-2023
+111,Vikas Kumar,twenty one,Male,BBA,72,,vikas@gmail.com,11-07-2023
+112,Meera Nair,19,Female,BSc,95,Kochi,meera@gmail.com,03-08-2023
+113,Rohit Sharma,21,Male,BCA,88,,rohit@gmail.com,18-07-2023
+114,Simran Kaur,,Female,BBA,91,Chandigarh,simran@gmailcom,29-06-2023
+115,Aditya Singh,22,Male,BCom,76,Delhi,aditya@gmail.com,05-07-2023
+116,Pooja Shah,20,Female,BCA,84,Mumbai,pooja@gmail.com,22-06-2023
+117,Manish Gupta,23,Male,BBA,69,Delhi,,14-07-2023
+118,Kavita Joshi,19,Female,BSc,93,Pune,kavita@gmail.com,02-08-2023
+119,Deepak Yadav,22,Male,BCom,71,Patna,deepak@gmail.com,09-07-2023
